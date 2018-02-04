@@ -16,21 +16,21 @@ theme = "hugo-goa"
 
 ## Hugo Built-in Features
 # disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-# googleAnalytics = "XYZ"
+googleAnalytics = "UA-113480627-1"
 enableRobotsTXT = true
 
 ## Site Settings
 [params]
 author = "Hans-Gunther Schmidt"
-intro = "Love code. Love Berlin."
+intro = "I love to code. And I love Berlin."
 description = "Fn enthusiast. *nix believer. Software engineer at [Meltwater](http://underthehood.meltwater.com/)."
 authorimage = "hans.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Hans loves code"
+keywords = "blog,otype,hans,developer,unix,linux,functional"
 
 ## Social Accounts
 [params.social]
