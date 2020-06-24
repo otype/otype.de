@@ -24,7 +24,7 @@ enableRobotsTXT = true
 author = "Hans-Gunther Schmidt"
 intro = "I love to code. And I love Berlin."
 description = "Fn enthusiast. *nix believer. Software engineer at [Meltwater](http://underthehood.meltwater.com/)."
-authorimage = "hans.png"
+authorimage = "hans_small.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -45,7 +45,7 @@ email = "hans@otype.de"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Hans-Gunther Schmidt. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2018-2020. Hans-Gunther Schmidt. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 
