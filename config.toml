@@ -16,7 +16,7 @@ theme = "hugo-goa"
 
 ## Hugo Built-in Features
 # disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "UA-113480627-1"
+# googleAnalytics = "UA-113480627-1"
 enableRobotsTXT = true
 
 ## Site Settings
@@ -45,8 +45,8 @@ email = "hans@otype.de"
 
 ## Extras
 [params.extra]
-copyright = "© 2018-2020. Hans-Gunther Schmidt. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
-poweredby = true
+copyright = "© 2012-2020. Hans-Gunther Schmidt. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
 highlightjs = true
 
 ## Main Menu
