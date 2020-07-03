@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseURL      = "http://otype.de/"
+baseURL      = "https://otype.de/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
